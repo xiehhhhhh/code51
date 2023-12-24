@@ -1,5 +1,5 @@
 # code51
-package yhck;
+package yhck; 
 class Bank {
     private double balance;
 
