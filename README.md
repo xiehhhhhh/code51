@@ -1,7 +1,7 @@
 # code51
 package yhck; 
 class Bank {
-    private double balance;
+    private double balance; 
 
     public Bank(double initialBalance) {
         this.balance = initialBalance;
